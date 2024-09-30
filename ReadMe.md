@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m an MCA graduate, searching for a job.<br>🌱 I’m currently learning Python full stack.<br>🎮 Also play video games.
 
 
