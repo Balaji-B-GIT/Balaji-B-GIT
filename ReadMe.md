@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m an MCA graduate, searching for a job.<br>🌱 I’m currently learning Python full stack.<br>🎮 Also play video games.
+🧑‍💻 Associate software engineer at Tech Mahindra .<br>🐍 Proficient in Python.<br>🎮 Also play video games.
 
 
 ## 🌐 Socials:
