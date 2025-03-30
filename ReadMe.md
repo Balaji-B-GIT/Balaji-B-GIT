@@ -1,5 +1,5 @@
 #  About Me:
-🧑‍💻 Associate software engineer at Tech Mahindra .<br>🐍 Proficient in Python.<br>🎮 Also play video games.
+🧑‍💻 Associate software engineer at Tech Mahindra.<br>🐍 Proficient in Python.<br>🎮 Also play video games.
 
 
 ## 🌐 Socials:
